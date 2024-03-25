@@ -53,7 +53,9 @@ border-right: 2px solid var(--botao-ativo);
 border-top: none;
 }
 
-border-bottom: 4px solid var(--botao-ativo);
-border-left: 2px solid var(--botao-ativo);
-border-right: 2px solid var(--botao-ativo);
-border-top: none;
+.botoes {
+    display: block;
+}
+.botao:first-child {
+    border: ;
+}
